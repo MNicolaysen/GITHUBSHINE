@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Morton Nicolaysen</h1>
+<h1 align="center">🔥 Hi, I'm Morton Nicolaysen 🔥</h1>
 <h3 align="center">Fullstack Web Developer graduate from Le Wagon</h3>
 <br>
 
-- 🔭 I’m currently working on [PlantSwap](https://github.com/diegorramos84/plant-swap)
+🌱 I’m currently working on [PlantSwap](https://github.com/diegorramos84/plant-swap)
 
-- 🌱 I’m currently learning **React**
+🤓 I’m currently learning **React**
 
-- 📫 How to reach me **mort1995@hotmail.com**
+📫 How to reach me **mort1995@hotmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/morton-nicolaysen/](https://www.linkedin.com/in/morton-nicolaysen/)
+📄 Know about my experiences [https://www.linkedin.com/in/morton-nicolaysen/](https://www.linkedin.com/in/morton-nicolaysen/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
