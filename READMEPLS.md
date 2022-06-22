@@ -6,9 +6,9 @@
 
 <h4 align="center"> 🤓 I’m currently learning **React** </h4>
 
-<h4 align="center"> 📫 How to reach me **mort1995@hotmail.com** </h4>
+<h4 align="center"> 📫 How to reach me **mort1995@hotmail.com**<h4 align="center">
 
-📄 Know about my experiences [https://www.linkedin.com/in/morton-nicolaysen/](https://www.linkedin.com/in/morton-nicolaysen/)
+<h4 align="center"> 📄 Know about my experiences [https://www.linkedin.com/in/morton-nicolaysen/](https://www.linkedin.com/in/morton-nicolaysen/) <h4 align="center">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
