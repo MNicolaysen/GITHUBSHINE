@@ -1,5 +1,6 @@
 <h1 align="center">🔥 Hi, I'm Morton Nicolaysen 🔥</h1>
-![This is an image](https://www.google.com/search?q=le+wagon&rlz=1C5CHFA_enGB998GB1000&tbm=isch&source=lnms&sa=X&ved=2ahUKEwj1ke_57cD4AhWViFwKHXumD6cQ_AUoA3oECAEQBQ&biw=1440&bih=711&dpr=2#imgrc=FjZp26nIhr9RmM) <h3 align="center">Fullstack Web Developer graduate from Le Wagon</h3>
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+<h3 align="center">Fullstack Web Developer graduate from Le Wagon</h3>
 <br>
 
 🌱 I’m currently working on [PlantSwap](https://github.com/diegorramos84/plant-swap)
