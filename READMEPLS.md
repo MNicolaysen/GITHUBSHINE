@@ -2,13 +2,13 @@
 <h3 align="center">Fullstack Web Developer graduate from Le Wagon</h3>
 <br>
 
-<h4 align="center"> 🌱 I’m currently working on [PlantSwap](https://github.com/diegorramos84/plant-swap) </h4>
+<h4 align="center"> 🌱 I’m currently working on [PlantSwap](https://github.com/diegorramos84/plant-swap) 🌱</h4>
 
-<h4 align="center"> 🤓 I’m currently learning **React** </h4>
+<h4 align="center"> 🤓 I’m currently learning **React**  🤓</h4>
 
-<h4 align="center"> 📫 How to reach me **mort1995@hotmail.com**<h4 align="center">
+<h4 align="center"> 📫 How to reach me **mort1995@hotmail.com** 📫</h4>
 
-<h4 align="center"> 📄 Know about my experiences [https://www.linkedin.com/in/morton-nicolaysen/](https://www.linkedin.com/in/morton-nicolaysen/) </h4>
+<h4 align="center"> 📄 Know about my experiences [https://www.linkedin.com/in/morton-nicolaysen/](https://www.linkedin.com/in/morton-nicolaysen/) 📄</h4>
 
   <br>
 <h3 align="left">Connect with me:</h3>
