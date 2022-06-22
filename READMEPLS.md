@@ -1,13 +1,12 @@
 <h1 align="center">🔥 Hi, I'm Morton Nicolaysen 🔥</h1>
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 <h3 align="center">Fullstack Web Developer graduate from Le Wagon</h3>
 <br>
 
-🌱 I’m currently working on [PlantSwap](https://github.com/diegorramos84/plant-swap)
+<h4 align="center"> 🌱 I’m currently working on [PlantSwap](https://github.com/diegorramos84/plant-swap) </h4>
 
-🤓 I’m currently learning **React**
+<h4 align="center"> 🤓 I’m currently learning **React** </h4>
 
-📫 How to reach me **mort1995@hotmail.com**
+<h4 align="center"> 📫 How to reach me **mort1995@hotmail.com** </h4>
 
 📄 Know about my experiences [https://www.linkedin.com/in/morton-nicolaysen/](https://www.linkedin.com/in/morton-nicolaysen/)
 
