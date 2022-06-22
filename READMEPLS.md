@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Morton Nicolaysen</h1>
 <h3 align="center">Fullstack Web Developer graduate from Le Wagon</h3>
+<br>
 
 - 🔭 I’m currently working on [PlantSwap](https://github.com/diegorramos84/plant-swap)
 
